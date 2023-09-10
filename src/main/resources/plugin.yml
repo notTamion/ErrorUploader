@@ -4,4 +4,4 @@ main: de.tamion.ErrorUploader
 api-version: '1.13'
 load: STARTUP
 authors: [Tamion]
-description: Automatically uploads your exceptions to paste.gg
+description: Automatically uploads your exceptions to pastes.dev
